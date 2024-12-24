@@ -1,0 +1,35 @@
+name: Sync Mononoke Repository
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天午夜12点（UTC）执行一次同步
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "Lincorn"  # 替换为你的 GitHub 用户名
+          git config --global user.email "lincorn@example.com"  # 替换为你的 GitHub 邮箱
+
+      - name: Clone Mononoke repository
+        run: |
+          git clone https://github.com/Coldvvater/Mononoke.git  # 克隆 Mononoke 仓库
+          cp -r Mononoke/* .  # 将其内容复制到当前仓库
+          rm -rf Mononoke  # 删除克隆的目录，保持整洁
+
+      - name: Commit changes
+        run: |
+          git add .  # 将变动添加到 Git 暂存区
+          if [ -n "$(git status --porcelain)" ]; then  # 如果有更改
+            git commit -m "Sync latest changes from Mononoke"  # 提交同步内容
+            git push origin main  # 推送到当前仓库的 main 分支
+          else
+            echo "No changes to commit"  # 如果没有变动
+          fi
