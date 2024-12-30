@@ -557,6 +557,7 @@ DOMAIN,cdn.vidyard.com
 DOMAIN,cdn.viglink.com
 DOMAIN,cdn.wccftech.com
 DOMAIN,cdn.weglot.com
+DOMAIN,cdn.wikiwiki.jp
 DOMAIN,cdn.windowsreport.com
 DOMAIN,cdn.wishpond.net
 DOMAIN,cdn.worldvectorlogo.com
@@ -1613,6 +1614,7 @@ DOMAIN,static-production.npmjs.com
 DOMAIN,static-r.kamihimeproject.net
 DOMAIN,static-redesign.cnbcfm.com
 DOMAIN,static-resource.np.community.playstation.net
+DOMAIN,static-secure-uploads.ui.com
 DOMAIN,static-sg-cdn.eporner.com
 DOMAIN,static-sv.fc2.com
 DOMAIN,static-web-prod.skillshare.com
@@ -2318,6 +2320,7 @@ DOMAIN-SUFFIX,hgagecdn.com
 DOMAIN-SUFFIX,highwinds-cdn.com
 DOMAIN-SUFFIX,himg.nl
 DOMAIN-SUFFIX,hits.b3log.org
+DOMAIN-SUFFIX,hommec.com
 DOMAIN-SUFFIX,howtogeekimages.com
 DOMAIN-SUFFIX,hs-scripts.com
 DOMAIN-SUFFIX,hs-scripts.net
