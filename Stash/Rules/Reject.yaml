@@ -684,6 +684,7 @@ payload:
   - DOMAIN-SUFFIX,gn01.top
   - DOMAIN-SUFFIX,go.mnaspm.com
   - DOMAIN-SUFFIX,go.myavlive.com
+  - DOMAIN-SUFFIX,go.xlvirdr.com
   - DOMAIN-SUFFIX,go2cloud.org
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googleadservices.com
@@ -964,6 +965,7 @@ payload:
   - DOMAIN-SUFFIX,revrtb.com
   - DOMAIN-SUFFIX,rfihub.com
   - DOMAIN-SUFFIX,rlcdn.com
+  - DOMAIN-SUFFIX,rmhfrtnd.com
   - DOMAIN-SUFFIX,rotaban.ru
   - DOMAIN-SUFFIX,rqmob.com
   - DOMAIN-SUFFIX,rtbasia.com
@@ -1117,6 +1119,7 @@ payload:
   - DOMAIN-SUFFIX,topitme.com
   - DOMAIN-SUFFIX,tracking.miui.com
   - DOMAIN-SUFFIX,trackingio.com
+  - DOMAIN-SUFFIX,trackwilltrk.com
   - DOMAIN-SUFFIX,tradplusad.com
   - DOMAIN-SUFFIX,trafficforce.com
   - DOMAIN-SUFFIX,traffichunt.com

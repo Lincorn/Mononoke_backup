@@ -1,8 +1,8 @@
 payload:
   ## [Adblock Plus 1.1]
-  ## ! Version: 202412221151
+  ## ! Version: 202412311153
   ## ! Title: EasyPrivacy
-  ## ! Last modified: 22 Dec 2024 11:51 UTC
+  ## ! Last modified: 31 Dec 2024 11:53 UTC
   ## ! Expires: 4 days (update frequency)
   ## ! *** easylist:template_header.txt ***
   ## ! 
@@ -529,6 +529,7 @@ payload:
   - DOMAIN-SUFFIX,afraidlanguage.com
   - DOMAIN-SUFFIX,aftermathbrother.com
   - DOMAIN-SUFFIX,agilebreeze.com
+  - DOMAIN-SUFFIX,agileformer.com
   - DOMAIN-SUFFIX,agreeablearch.com
   - DOMAIN-SUFFIX,agreeablestew.com
   - DOMAIN-SUFFIX,agreeabletouch.com
@@ -659,6 +660,7 @@ payload:
   - DOMAIN-SUFFIX,bikesboard.com
   - DOMAIN-SUFFIX,billowybead.com
   - DOMAIN-SUFFIX,billowybelief.com
+  - DOMAIN-SUFFIX,binarycrest.com
   - DOMAIN-SUFFIX,binspiredtees.com
   - DOMAIN-SUFFIX,birthdaybelief.com
   - DOMAIN-SUFFIX,bitterbear.com
@@ -809,6 +811,7 @@ payload:
   - DOMAIN-SUFFIX,chubbycreature.com
   - DOMAIN-SUFFIX,chunkycactus.com
   - DOMAIN-SUFFIX,cicdserver.com
+  - DOMAIN-SUFFIX,ciderfeast.com
   - DOMAIN-SUFFIX,cinemabonus.com
   - DOMAIN-SUFFIX,circlelevel.com
   - DOMAIN-SUFFIX,clamcelery.com
@@ -1058,6 +1061,7 @@ payload:
   - DOMAIN-SUFFIX,eagereden.com
   - DOMAIN-SUFFIX,eagerflame.com
   - DOMAIN-SUFFIX,eagerknight.com
+  - DOMAIN-SUFFIX,earnbaht.com
   - DOMAIN-SUFFIX,earthquakescarf.com
   - DOMAIN-SUFFIX,earthycopy.com
   - DOMAIN-SUFFIX,earthyfarm.com
@@ -1119,6 +1123,7 @@ payload:
   - DOMAIN-SUFFIX,enthusiastictemper.com
   - DOMAIN-SUFFIX,enviousshape.com
   - DOMAIN-SUFFIX,enviousthread.com
+  - DOMAIN-SUFFIX,epicoldschool.com
   - DOMAIN-SUFFIX,equablekettle.com
   - DOMAIN-SUFFIX,erraticreaction.com
   - DOMAIN-SUFFIX,etherealbamboo.com
@@ -1219,6 +1224,7 @@ payload:
   - DOMAIN-SUFFIX,floweryfact.com
   - DOMAIN-SUFFIX,floweryflavor.com
   - DOMAIN-SUFFIX,floweryoperation.com
+  - DOMAIN-SUFFIX,flushingbeast.com
   - DOMAIN-SUFFIX,flutteringfireman.com
   - DOMAIN-SUFFIX,foambench.com
   - DOMAIN-SUFFIX,foamyfood.com
@@ -1232,6 +1238,7 @@ payload:
   - DOMAIN-SUFFIX,fortunatemark.com
   - DOMAIN-SUFFIX,fourarithmetic.com
   - DOMAIN-SUFFIX,fourfork.com
+  - DOMAIN-SUFFIX,fourpawsahead.com
   - DOMAIN-SUFFIX,fractalcoast.com
   - DOMAIN-SUFFIX,frailflock.com
   - DOMAIN-SUFFIX,frailfruit.com
@@ -1307,6 +1314,7 @@ payload:
   - DOMAIN-SUFFIX,goodbark.com
   - DOMAIN-SUFFIX,gorgeousedge.com
   - DOMAIN-SUFFIX,gorgeousground.com
+  - DOMAIN-SUFFIX,gossamerwing.com
   - DOMAIN-SUFFIX,gracefulmilk.com
   - DOMAIN-SUFFIX,gracefulsock.com
   - DOMAIN-SUFFIX,grainmass.com
@@ -1391,6 +1399,7 @@ payload:
   - DOMAIN-SUFFIX,historicalrequest.com
   - DOMAIN-SUFFIX,hocgeese.com
   - DOMAIN-SUFFIX,hollowafterthought.com
+  - DOMAIN-SUFFIX,homebizplaza.com
   - DOMAIN-SUFFIX,homelycrown.com
   - DOMAIN-SUFFIX,homeslick.com
   - DOMAIN-SUFFIX,honeybulb.com
@@ -1399,6 +1408,7 @@ payload:
   - DOMAIN-SUFFIX,honorablehall.com
   - DOMAIN-SUFFIX,honorablehydrant.com
   - DOMAIN-SUFFIX,honorableland.com
+  - DOMAIN-SUFFIX,hookconference.com
   - DOMAIN-SUFFIX,hospitablehall.com
   - DOMAIN-SUFFIX,hospitablehat.com
   - DOMAIN-SUFFIX,howdyinbox.com
@@ -1446,6 +1456,7 @@ payload:
   - DOMAIN-SUFFIX,inquisitiveinvention.com
   - DOMAIN-SUFFIX,instrumentinsect.com
   - DOMAIN-SUFFIX,instrumentsponge.com
+  - DOMAIN-SUFFIX,insulatech.com
   - DOMAIN-SUFFIX,intelligentscissors.com
   - DOMAIN-SUFFIX,intentlens.com
   - DOMAIN-SUFFIX,interestdust.com
@@ -1676,6 +1687,7 @@ payload:
   - DOMAIN-SUFFIX,negotiatetime.com
   - DOMAIN-SUFFIX,neighborlywatch.com
   - DOMAIN-SUFFIX,nervoussummer.com
+  - DOMAIN-SUFFIX,newartreview.com
   - DOMAIN-SUFFIX,newsletterjet.com
   - DOMAIN-SUFFIX,niftygraphs.com
   - DOMAIN-SUFFIX,niftyhospital.com
@@ -1766,6 +1778,7 @@ payload:
   - DOMAIN-SUFFIX,peacefullimit.com
   - DOMAIN-SUFFIX,pedromister.com
   - DOMAIN-SUFFIX,pedropanther.com
+  - DOMAIN-SUFFIX,pegsbuttons.com
   - DOMAIN-SUFFIX,perceivequarter.com
   - DOMAIN-SUFFIX,periodicpocket.com
   - DOMAIN-SUFFIX,perkyjade.com
@@ -1862,6 +1875,7 @@ payload:
   - DOMAIN-SUFFIX,promopassage.com
   - DOMAIN-SUFFIX,proofconvert.com
   - DOMAIN-SUFFIX,propertypotato.com
+  - DOMAIN-SUFFIX,propsynergy.com
   - DOMAIN-SUFFIX,protestcopy.com
   - DOMAIN-SUFFIX,proudprose.com
   - DOMAIN-SUFFIX,psychedelicarithmetic.com
@@ -2068,6 +2082,7 @@ payload:
   - DOMAIN-SUFFIX,sedatebun.com
   - DOMAIN-SUFFIX,seedscissors.com
   - DOMAIN-SUFFIX,seemlysuggestion.com
+  - DOMAIN-SUFFIX,seespice.com
   - DOMAIN-SUFFIX,selectionship.com
   - DOMAIN-SUFFIX,selectivesummer.com
   - DOMAIN-SUFFIX,selfishsea.com
@@ -2375,6 +2390,7 @@ payload:
   - DOMAIN-SUFFIX,tangycover.com
   - DOMAIN-SUFFIX,tarttendency.com
   - DOMAIN-SUFFIX,tasksimplify.com
+  - DOMAIN-SUFFIX,tasselapp.com
   - DOMAIN-SUFFIX,tastefulsongs.com
   - DOMAIN-SUFFIX,tastelesstoes.com
   - DOMAIN-SUFFIX,tastelesstrees.com
@@ -2398,12 +2414,14 @@ payload:
   - DOMAIN-SUFFIX,temptteam.com
   - DOMAIN-SUFFIX,tendersugar.com
   - DOMAIN-SUFFIX,tendertest.com
+  - DOMAIN-SUFFIX,tenhourweek.com
   - DOMAIN-SUFFIX,terriblethumb.com
   - DOMAIN-SUFFIX,terrificgoose.com
   - DOMAIN-SUFFIX,terrifictooth.com
   - DOMAIN-SUFFIX,testadmiral.com
   - DOMAIN-SUFFIX,testedtouch.com
   - DOMAIN-SUFFIX,texturetrick.com
+  - DOMAIN-SUFFIX,thejavalane.com
   - DOMAIN-SUFFIX,therapeuticcars.com
   - DOMAIN-SUFFIX,thickticket.com
   - DOMAIN-SUFFIX,thicktrucks.com
@@ -3418,6 +3436,7 @@ payload:
   - DOMAIN-SUFFIX,stats.bitgravity.com
   - DOMAIN-SUFFIX,stats.bluebillywig.com
   - DOMAIN-SUFFIX,stats.bradmax.com
+  - DOMAIN-SUFFIX,stats.bunkr.ru
   - DOMAIN-SUFFIX,stats.callnowbutton.com
   - DOMAIN-SUFFIX,stats.cmcigroup.com
   - DOMAIN-SUFFIX,stats.curds.io
@@ -3459,9 +3478,11 @@ payload:
   - DOMAIN-SUFFIX,stats.wp.com
   - DOMAIN-SUFFIX,stats.wpmucdn.com
   - DOMAIN-SUFFIX,stats.zotabox.com
+  - DOMAIN-SUFFIX,stats2.indianpornempire.com
   - DOMAIN-SUFFIX,statsapi.screen9.com
   - DOMAIN-SUFFIX,statscollector-1.agora.io
   - DOMAIN-SUFFIX,statscollector.sd-rtn.com
+  - DOMAIN-SUFFIX,statsig.anthropic.com
   - DOMAIN-SUFFIX,statsjs.klevu.com
   - DOMAIN-SUFFIX,statt-collect.herokuapp.com
   - DOMAIN-SUFFIX,stg-data-collector.playbuzz.com
@@ -4428,6 +4449,7 @@ payload:
   - DOMAIN-SUFFIX,track.tappx.com
   - DOMAIN-SUFFIX,tracker.thinkindot.com
   - DOMAIN-SUFFIX,tracking.smartmeapp.com
+  - DOMAIN-SUFFIX,tracking.univtec.com
   - DOMAIN-SUFFIX,webpixel.smartmeapp.com
   - DOMAIN-SUFFIX,collector.schibsted.io
   - DOMAIN-SUFFIX,evt-api.ntm.eu
@@ -5135,6 +5157,7 @@ payload:
   - DOMAIN-SUFFIX,idstatus.sky.com
   - DOMAIN-SUFFIX,img2021.navyfederal.org
   - DOMAIN-SUFFIX,imgs.signifyd.com
+  - DOMAIN-SUFFIX,log-185a61e7.bendigobank.com.au
   - DOMAIN-SUFFIX,qfp.intuit.com
   - DOMAIN-SUFFIX,rba-screen.healthsafe-id.com
   - DOMAIN-SUFFIX,rsx.afterpay.com
@@ -5144,6 +5167,7 @@ payload:
   - DOMAIN-SUFFIX,tmx.td.com
   - DOMAIN-SUFFIX,u47.pnc.com
   - DOMAIN-SUFFIX,w-profiling.simplii.com
+  - DOMAIN-SUFFIX,wup-185a61e7.bendigobank.com.au
   - DOMAIN-SUFFIX,bup.bankofamerica.com
   - DOMAIN-SUFFIX,cdn1.skrill.com
   - DOMAIN-SUFFIX,d276.ourmidland.com
@@ -41321,6 +41345,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.stileo.it
   - DOMAIN-SUFFIX,tracking.gruppo.mps.it
   - DOMAIN-SUFFIX,ad-platform.jmty.jp
+  - DOMAIN-SUFFIX,altema-log.com
   - DOMAIN-SUFFIX,ana.3751chat.com
   - DOMAIN-SUFFIX,ana.chat.shalove.net
   - DOMAIN-SUFFIX,ana.luvul.net
