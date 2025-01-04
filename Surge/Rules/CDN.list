@@ -277,6 +277,18 @@ DOMAIN,c.navattic.com
 DOMAIN,c.s-microsoft.com
 DOMAIN,c.speedtestcustom.com
 DOMAIN,c.start.me
+DOMAIN,c1.patreon.com
+DOMAIN,c10.patreon.com
+DOMAIN,c11.patreon.com
+DOMAIN,c13.patreon.com
+DOMAIN,c14.patreon.com
+DOMAIN,c16.patreon.com
+DOMAIN,c17.patreon.com
+DOMAIN,c4.patreon.com
+DOMAIN,c5.patreon.com
+DOMAIN,c6.patreon.com
+DOMAIN,c7.patreon.com
+DOMAIN,c8.patreon.com
 DOMAIN,ca.nfs.pub
 DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
@@ -398,6 +410,7 @@ DOMAIN,cdn.freebiesupply.com
 DOMAIN,cdn.freecodecamp.org
 DOMAIN,cdn.freshdesk.com
 DOMAIN,cdn.gamemonkey.org
+DOMAIN,cdn.gdl.gg
 DOMAIN,cdn.getkoala.com
 DOMAIN,cdn.gettr.com
 DOMAIN,cdn.ghostery.com
@@ -430,6 +443,7 @@ DOMAIN,cdn.judge.me
 DOMAIN,cdn.jwplayer.com
 DOMAIN,cdn.kinopio.club
 DOMAIN,cdn.kinsta.com
+DOMAIN,cdn.ko-fi.com
 DOMAIN,cdn.koala.live
 DOMAIN,cdn.kobo.com
 DOMAIN,cdn.langshop.app
@@ -662,6 +676,7 @@ DOMAIN,code.iconify.design
 DOMAIN,code.ionicframework.com
 DOMAIN,code.jquery.com
 DOMAIN,code.piano.io
+DOMAIN,code.upscope.io
 DOMAIN,common-header.nimg.jp
 DOMAIN,compass-ssl.xbox.com
 DOMAIN,components.clever-cloud.com
@@ -1130,9 +1145,11 @@ DOMAIN,js.smile.io
 DOMAIN,js.stripe.com
 DOMAIN,js.txxx.tube
 DOMAIN,js.upload.io
+DOMAIN,js.upscope.io
 DOMAIN,js.userflow.com
 DOMAIN,js.verygoodvault.com
 DOMAIN,js1.chargebee.com
+DOMAIN,jsdelivr.b-cdn.net
 DOMAIN,jsdelivr.ioiox.net
 DOMAIN,jslibs.blackmagicdesign.com
 DOMAIN,jsonplaceholder.typicode.com
@@ -1143,6 +1160,7 @@ DOMAIN,keyframe-cdn.abcnews.com
 DOMAIN,lain.bgm.tv
 DOMAIN,latency-test.lab.skk.moe
 DOMAIN,latency-test.skk.moe
+DOMAIN,launcher-files.modrinth.com
 DOMAIN,launcher.spot.im
 DOMAIN,launchercontent.mojang.com
 DOMAIN,lc.nssurge.com
@@ -1825,6 +1843,7 @@ DOMAIN,steamvideo-a.akamaihd.net
 DOMAIN,storage-b.picacomic.com
 DOMAIN,storage.crisp.chat
 DOMAIN,storage.gra.cloud.ovh.net
+DOMAIN,storage.ko-fi.com
 DOMAIN,storage.moegirl.tw
 DOMAIN,storage.sciencecast.org
 DOMAIN,storage.withfabric.xyz
@@ -2590,6 +2609,7 @@ DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,parastorage.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,patientpop.com
+DOMAIN-SUFFIX,patreonusercontent.com
 DOMAIN-SUFFIX,payloadcms.app
 DOMAIN-SUFFIX,pcdn.co
 DOMAIN-SUFFIX,permaweb.eu.org
