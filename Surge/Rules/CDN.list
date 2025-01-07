@@ -259,6 +259,7 @@ DOMAIN,blacklist.tampermonkey.net
 DOMAIN,blade-public-static.blade-group.com
 DOMAIN,blob.sololearn.com
 DOMAIN,boards.greenhouse.io
+DOMAIN,bookface-static.ycombinator.com
 DOMAIN,bot.ivy.ai
 DOMAIN,brick.a.ssl.fastly.net
 DOMAIN,brick.freetls.fastly.net
@@ -936,6 +937,7 @@ DOMAIN,image.email.microsoftemail.com
 DOMAIN,image.freepik.com
 DOMAIN,image.gyutto.com
 DOMAIN,image.gyutto.jp
+DOMAIN,image.hkhl.hk
 DOMAIN,image.ibb.co
 DOMAIN,image.jnislniv.xyz
 DOMAIN,image.lichess1.org
@@ -2757,6 +2759,7 @@ DOMAIN-SUFFIX,staticworld.net
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,sthlstatic.com
 DOMAIN-SUFFIX,storage.googleapis.com
 DOMAIN-SUFFIX,storage.infomaniak.com
 DOMAIN-SUFFIX,storage.yandexcloud.net
