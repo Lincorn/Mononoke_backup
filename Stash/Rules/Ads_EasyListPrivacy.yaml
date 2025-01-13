@@ -1,8 +1,8 @@
 payload:
   ## [Adblock Plus 1.1]
-  ## ! Version: 202501090256
+  ## ! Version: 202501121238
   ## ! Title: EasyPrivacy
-  ## ! Last modified: 09 Jan 2025 02:56 UTC
+  ## ! Last modified: 12 Jan 2025 12:38 UTC
   ## ! Expires: 4 days (update frequency)
   ## ! *** easylist:template_header.txt ***
   ## ! 
@@ -1041,6 +1041,7 @@ payload:
   - DOMAIN-SUFFIX,drawservant.com
   - DOMAIN-SUFFIX,dreamycanyon.com
   - DOMAIN-SUFFIX,dressexpansion.com
+  - DOMAIN-SUFFIX,driftingchef.com
   - DOMAIN-SUFFIX,driftpizza.com
   - DOMAIN-SUFFIX,dripappliance.com
   - DOMAIN-SUFFIX,driverequest.com
@@ -1572,11 +1573,13 @@ payload:
   - DOMAIN-SUFFIX,majesticwaterscape.com
   - DOMAIN-SUFFIX,majesticwilderness.com
   - DOMAIN-SUFFIX,makeshiftmine.com
+  - DOMAIN-SUFFIX,makesimpact.com
   - DOMAIN-SUFFIX,maliciousmusic.com
   - DOMAIN-SUFFIX,managedpush.com
   - DOMAIN-SUFFIX,maniacalappliance.com
   - DOMAIN-SUFFIX,mantrafox.com
   - DOMAIN-SUFFIX,mapbasin.com
+  - DOMAIN-SUFFIX,mapcommand.com
   - DOMAIN-SUFFIX,marblediscussion.com
   - DOMAIN-SUFFIX,markahouse.com
   - DOMAIN-SUFFIX,markedcrayon.com
@@ -1637,6 +1640,7 @@ payload:
   - DOMAIN-SUFFIX,miscreantmine.com
   - DOMAIN-SUFFIX,miscreantmoon.com
   - DOMAIN-SUFFIX,missionrewards.com
+  - DOMAIN-SUFFIX,mistervillas.com
   - DOMAIN-SUFFIX,mistyhorizon.com
   - DOMAIN-SUFFIX,mittencattle.com
   - DOMAIN-SUFFIX,mixedreading.com
@@ -2302,6 +2306,7 @@ payload:
   - DOMAIN-SUFFIX,stingyspoon.com
   - DOMAIN-SUFFIX,stockingsleet.com
   - DOMAIN-SUFFIX,stockingsneeze.com
+  - DOMAIN-SUFFIX,stocktheme.com
   - DOMAIN-SUFFIX,stomachscience.com
   - DOMAIN-SUFFIX,stonechin.com
   - DOMAIN-SUFFIX,stopstomach.com
@@ -2847,6 +2852,7 @@ payload:
   - DOMAIN-SUFFIX,browser.covatic.io
   - DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com
   - DOMAIN-SUFFIX,bs.yandex.ru
+  - DOMAIN-SUFFIX,c.albss.com
   - DOMAIN-SUFFIX,c.amazinglybrilliant.com.au
   - DOMAIN-SUFFIX,c.bazo.io
   - DOMAIN-SUFFIX,c.imedia.cz
@@ -3268,8 +3274,6 @@ payload:
   - DOMAIN-SUFFIX,pets.channeladvisor.com
   - DOMAIN-SUFFIX,pi.ispot.tv
   - DOMAIN-SUFFIX,ping.dozuki.com
-  - DOMAIN-SUFFIX,ping.fastsimon.com
-  - DOMAIN-SUFFIX,ping.instantsearchplus.com
   - DOMAIN-SUFFIX,pings.conviva.com
   - DOMAIN-SUFFIX,pings.vidpulse.com
   - DOMAIN-SUFFIX,pipe-collect.ebu.io
@@ -4209,6 +4213,7 @@ payload:
   - DOMAIN-SUFFIX,bvr.ast.snva.jp
   - DOMAIN-SUFFIX,bvr.snva.jp
   - DOMAIN-SUFFIX,client-log.karte.io
+  - DOMAIN-SUFFIX,collector.t-idr.com
   - DOMAIN-SUFFIX,cookie.sync.usonar.jp
   - DOMAIN-SUFFIX,counter2.blog.livedoor.com
   - DOMAIN-SUFFIX,crossees.com
