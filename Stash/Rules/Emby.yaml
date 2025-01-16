@@ -1,6 +1,5 @@
 payload:
-  # 最后更新时间：2024-01-12 22:30
-
+  # 最后更新时间：2025-01-15 19:44
 
   ##### A #####
 
@@ -82,8 +81,7 @@ payload:
   ##### H #####
 
   # HXD(Porn)
-  - DOMAIN-SUFFIX,hxd.as174.com
-  - DOMAIN-SUFFIX,emby.as174.com
+  - DOMAIN-SUFFIX,as174.de
   - DOMAIN-SUFFIX,bili.rip
   - DOMAIN-SUFFIX,bili.de
   - DOMAIN-SUFFIX,nvidia.rip
