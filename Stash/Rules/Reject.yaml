@@ -417,6 +417,7 @@ payload:
   - DOMAIN-SUFFIX,ad-locus.com
   - DOMAIN-SUFFIX,ad-maven.com
   - DOMAIN-SUFFIX,ad-move.jp
+  - DOMAIN-SUFFIX,ad-nex.com
   - DOMAIN-SUFFIX,ad-plus.cn
   - DOMAIN-SUFFIX,ad-score.com
   - DOMAIN-SUFFIX,ad-srv.co
@@ -733,6 +734,7 @@ payload:
   - DOMAIN-SUFFIX,idealads.net
   - DOMAIN-SUFFIX,ig66.vip
   - DOMAIN-SUFFIX,ig67.vip
+  - DOMAIN-SUFFIX,img.ad-nex.com
   - DOMAIN-SUFFIX,img.hylmxing.com
   - DOMAIN-SUFFIX,imgxxx.shunxincar.cn
   - DOMAIN-SUFFIX,impactserving.com
@@ -765,6 +767,7 @@ payload:
   - DOMAIN-SUFFIX,jomwihn.cn
   - DOMAIN-SUFFIX,js.51toubu.com
   - DOMAIN-SUFFIX,js.users.51.la
+  - DOMAIN-SUFFIX,js.waqool.com
   - DOMAIN-SUFFIX,js.wpshsdk.com
   - DOMAIN-SUFFIX,js.wpushsdk.com
   - DOMAIN-SUFFIX,jsncke.com
@@ -1201,6 +1204,7 @@ payload:
   - DOMAIN-SUFFIX,vungle.com
   - DOMAIN-SUFFIX,w55c.net
   - DOMAIN-SUFFIX,wapstart.ru
+  - DOMAIN-SUFFIX,waqool.com
   - DOMAIN-SUFFIX,watchingthat.net
   - DOMAIN-SUFFIX,webads.eu
   - DOMAIN-SUFFIX,webp2p.letv.com
