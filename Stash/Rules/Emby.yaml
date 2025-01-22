@@ -1,5 +1,5 @@
 payload:
-  # 最后更新时间：2025-01-15 19:44
+  # 最后更新时间：2025-01-21 23:35
 
   ##### A #####
 
@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,emby.aiyowei.ml
 
   # AlphaTV
-  - DOMAIN,oversea.alphatvapp.top
+  - DOMAIN-SUFFIX,alphatvapp.top
 
   ##### B #####
 
