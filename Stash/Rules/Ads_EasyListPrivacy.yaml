@@ -1,8 +1,8 @@
 payload:
   ## [Adblock Plus 1.1]
-  ## ! Version: 202501311549
+  ## ! Version: 202502051330
   ## ! Title: EasyPrivacy
-  ## ! Last modified: 31 Jan 2025 15:49 UTC
+  ## ! Last modified: 05 Feb 2025 13:30 UTC
   ## ! Expires: 4 days (update frequency)
   ## ! *** easylist:template_header.txt ***
   ## ! 
@@ -2443,6 +2443,7 @@ payload:
   - DOMAIN-SUFFIX,thoughtlessknot.com
   - DOMAIN-SUFFIX,threechurch.com
   - DOMAIN-SUFFIX,threetruck.com
+  - DOMAIN-SUFFIX,thrillasoft.com
   - DOMAIN-SUFFIX,throattrees.com
   - DOMAIN-SUFFIX,thunderingrose.com
   - DOMAIN-SUFFIX,thunderingtendency.com
@@ -2825,6 +2826,7 @@ payload:
   - DOMAIN-SUFFIX,az.nzn.io
   - DOMAIN-SUFFIX,az693360.vo.msecnd.net
   - DOMAIN-SUFFIX,b.bedop.com
+  - DOMAIN-SUFFIX,b.trueanthem.com
   - DOMAIN-SUFFIX,b7tp47v2nb3x-a.akamaihd.net
   - DOMAIN-SUFFIX,barium.cheezdev.com
   - DOMAIN-SUFFIX,bat.bing.com
@@ -3112,6 +3114,7 @@ payload:
   - DOMAIN-SUFFIX,gsp1.baidu.com
   - DOMAIN-SUFFIX,gtmfsstatic.getgoogletagmanager.com
   - DOMAIN-SUFFIX,gtrk.s3.amazonaws.com
+  - DOMAIN-SUFFIX,gw.conversionsapigateway.com
   - DOMAIN-SUFFIX,happen.spkt.io
   - DOMAIN-SUFFIX,harvest.graindata.com
   - DOMAIN-SUFFIX,hb.vhsrv.com
@@ -41098,6 +41101,7 @@ payload:
   - DOMAIN-SUFFIX,improving.wuzhuiso.com
   - DOMAIN-SUFFIX,jcmonitor.xcar.com.cn
   - DOMAIN-SUFFIX,l.web.huya.com
+  - DOMAIN-SUFFIX,log-upload-os.hoyolab.com
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,log.bitauto.com
   - DOMAIN-SUFFIX,log.flight.qunar.com
