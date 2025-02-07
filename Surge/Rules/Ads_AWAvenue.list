@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 740
+#Total lines: 739
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -342,7 +342,6 @@ DOMAIN-SUFFIX,httpdns.ocloud.oppomobile.com
 DOMAIN-SUFFIX,hugelog.fcbox.com
 DOMAIN-SUFFIX,huichuan.sm.cn
 DOMAIN-SUFFIX,hw-ot-ad.a.yximgs.com
-DOMAIN-SUFFIX,hw.zuimeitianqi.com
 DOMAIN-SUFFIX,hwpub-s01-drcn.cloud.dbankcloud.cn
 DOMAIN-SUFFIX,hya.comp.360os.com
 DOMAIN-SUFFIX,hybrid.miniapp.taobao.com
