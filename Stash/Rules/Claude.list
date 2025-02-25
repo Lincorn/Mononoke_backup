@@ -1,7 +1,5 @@
-# NAME: Claude
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 2
-# TOTAL: 3
-DOMAIN,cdn.usefathom.com
+# 规则名称: Claude
+# 规则统计: 2
+
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai

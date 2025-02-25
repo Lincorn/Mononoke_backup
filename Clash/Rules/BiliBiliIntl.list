@@ -1,5 +1,5 @@
-# DOMAIN-SUFFIX: 1
-# PROCESS-NAME: 1
-# TOTAL: 2
+# 规则名称: BiliBiliIntl
+# 规则统计: 2
+
 DOMAIN-SUFFIX,bilibili.tv
 PROCESS-NAME,com.bstar.intl

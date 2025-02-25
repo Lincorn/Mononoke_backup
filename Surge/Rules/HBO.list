@@ -1,7 +1,6 @@
-# NAME: HBO
-# DOMAIN-SUFFIX: 47
-# PROCESS-NAME: 1
-# TOTAL: 48
+# 规则名称: HBO
+# 规则统计: 48
+
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN-SUFFIX,cinemax.com
