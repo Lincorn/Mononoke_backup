@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3228
+# 规则统计: 3238
 
 domain_set:
   - 0x0.st
@@ -419,7 +419,9 @@ domain_set:
   - cdn.db-ip.com
   - cdn.decrypt.co
   - cdn.delight-vr.com
+  - cdn.designsystem.arm.com
   - cdn.deta.space
+  - cdn.devolutions.net
   - cdn.dnsimple.com
   - cdn.document360.io
   - cdn.donmai.us
@@ -499,6 +501,7 @@ domain_set:
   - cdn.linearicons.com
   - cdn.livechatinc.com
   - cdn.loom.com
+  - cdn.macstories.net
   - cdn.manageengine.com
   - cdn.maptiler.com
   - cdn.masto.host
@@ -721,6 +724,7 @@ domain_set:
   - cdnstatic.w1mp.com
   - cdnstatic.w4nkr.com
   - cdntranscend.eventbrite.com
+  - cdnweb.devolutions.net
   - cds.connatix.com
   - certificates.godaddy.com
   - certona.gap.com
@@ -1063,6 +1067,7 @@ domain_set:
   - images-ext-1.discordapp.net
   - images-ext-2.discordapp.net
   - images.991.com
+  - images.anandtech.com
   - images.arigatotravel.com
   - images.axios.com
   - images.bfmtv.com
@@ -1193,6 +1198,7 @@ domain_set:
   - img.sparemin.com
   - img.sparknotes.com
   - img.supjav.com
+  - img.telemetr.io
   - img.timero.xyz
   - img.urlnode.com
   - img.utdstc.com
@@ -1424,6 +1430,7 @@ domain_set:
   - net-fe-static-assets.network-controller.svc.ui.com
   - netlify.apollo.io
   - newassets.hcaptcha.com
+  - news-assets.apple.com
   - newsletter.postmarkapp.com
   - next-images.opencollective.com
   - nextra.site
@@ -1954,6 +1961,7 @@ domain_set:
   - static.rust-lang.org
   - static.scarf.sh
   - static.scroll.com
+  - static.seel.com
   - static.skyassets.com
   - static.snapchat.com
   - static.snaptube.in
@@ -2070,6 +2078,7 @@ domain_set:
   - telemetry.nextjs.org
   - telemetry.split.io
   - telemetry.vercel.com
+  - telemetry2.devolutions.net
   - th.bing.com
   - themes.fourthwall.com
   - thingproxy.freeboard.io
@@ -3221,7 +3230,8 @@ domain_wildcard_set:
   - s??.maxstream.org
   - s???.pornone.com
   - sdk.*.braze.eu
-  - static*.tgstat.ru
+  - static?.tgstat.ru
+  - static??.tgstat.ru
   - t?.nhentai.net
   - th-*.pornone.com
   - v.rn???.xyz
