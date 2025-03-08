@@ -1,5 +1,5 @@
 # 规则名称: Ads_SukkaW
-# 规则统计: 64184
+# 规则统计: 64198
 
 no_resolve: true
 domain_set:
@@ -150,7 +150,6 @@ domain_set:
   - amap-aos-info-nogw.amap.com
   - amdc.m.youku.com
   - amos.alicdn.com
-  - analytics.163.com
   - analytics.infomaniak.com
   - analytics.msn.com
   - analytics.nexon.com
@@ -3079,6 +3078,7 @@ domain_suffix_set:
   - adat.borsonline.hu
   - adat.freemail.hu
   - adat.koponyeg.hu
+  - adat.life.hu
   - adat.mindmegette.hu
   - adat.origo.hu
   - adat.videa.hu
@@ -3763,6 +3763,7 @@ domain_suffix_set:
   - adstats.tencentmusic.com
   - adstax-cdn.adrtx.net
   - adstik.click
+  - adstk.io
   - adstook.com
   - adstrategy.biz.weibo.com
   - adsunflower.com
@@ -4886,6 +4887,7 @@ domain_suffix_set:
   - allstat-pp.ru
   - alluviopurreic.com
   - allvideometrika.com
+  - allworkovergot.com
   - allyes.com
   - allyes.com.cn
   - almareepom.com
@@ -5176,6 +5178,7 @@ domain_suffix_set:
   - analytics-v2.wetransfer.com
   - analytics-wcms.joins.net
   - analytics.126.net
+  - analytics.163.com
   - analytics.1800contacts.com
   - analytics.1stnationalbank.com
   - analytics.2290online.com
@@ -8537,6 +8540,7 @@ domain_suffix_set:
   - bibitheedseck.net
   - bichtf.in-themode.com
   - bicp-analytics.postscript.io
+  - bidarblam.com
   - bidbeneficial.com
   - bidberry.net
   - bidbrain.app
@@ -20265,6 +20269,7 @@ domain_suffix_set:
   - fastlnd.com
   - fastnativead.com
   - fastorfar.com
+  - fasttiger.io
   - fasttrack.fr
   - fasttracker.fr
   - fatafatasalalala.com
@@ -21435,7 +21440,6 @@ domain_suffix_set:
   - g1386590346.co
   - g1584674682.co
   - g1584674684.co
-  - g1782759015.co
   - g1be.swisslife-direct.fr
   - g2afse.com
   - g2ak5.com
@@ -21663,6 +21667,7 @@ domain_suffix_set:
   - geedoovu.net
   - geegleshoaph.com
   - geejetag.com
+  - geekries.com
   - geeptaunip.net
   - geewdashb3.fun
   - geewedurisou.net
@@ -21976,7 +21981,6 @@ domain_suffix_set:
   - gixiluros.com
   - gizokraijaw.net
   - gizsyj.thegrommet.com
-  - gj.mmstat.com
   - gjapplog.uc.cn
   - gjapplog.ucweb.com
   - gjarpi.oiaskin.co
@@ -23945,6 +23949,7 @@ domain_suffix_set:
   - hashtstrout.com
   - hasomsdcoojm.com
   - hasslefree.redwingshoes.com
+  - hatchaxeeftaist.com
   - hatlesswhsle.com
   - hatlikecivory.top
   - hats-47b.com
@@ -27115,6 +27120,7 @@ domain_suffix_set:
   - instinctiveads.com
   - institutehopelessbeck.com
   - instrumenttactics.com
+  - insulatech.com
   - insurance.alliant.com
   - insurance.caainsurancecompany.com
   - insurance.leads360.com
@@ -29425,7 +29431,6 @@ domain_suffix_set:
   - leadmanagement.velocify.com
   - leads.commercial.keurig.com
   - leadsleap.net
-  - leadtracking.plumvoice.com
   - leadzu.com
   - leadzupc.com
   - leadzutw.com
@@ -31234,6 +31239,7 @@ domain_suffix_set:
   - lofo3l15c674.platform.replai.io
   - lofqvl.icu
   - loftempedur.net
+  - log-2ffe60ee.westpac.com.au
   - log-ana.h3z.jp
   - log-api.cli.im
   - log-auth.flysleep.cn
@@ -36248,6 +36254,7 @@ domain_suffix_set:
   - metrics.wolterskluwer.com
   - metrics.womansday.com
   - metrics.workforce.com
+  - metrics.workfront.com
   - metrics.worldbank.org
   - metrics.worldmarket.com
   - metrics.worlds50bestbars.com
@@ -37639,6 +37646,7 @@ domain_suffix_set:
   - nclljn.xyz
   - ncojkokhi.com
   - nct.ui-portal.de
+  - nctrk.abmail.com.br
   - ncvsbz.bonds.com.au
   - ncvwahrct.com
   - ncvwnp.icu
@@ -39604,6 +39612,7 @@ domain_suffix_set:
   - optumcoding.optum.com
   - optvz.com
   - optyruntchan.com
+  - opulentsylvan.com
   - opummf.himiwaybike.com
   - opus.2lifecommunities.org
   - opvanillishan.com
@@ -40298,7 +40307,6 @@ domain_suffix_set:
   - paqgoc.shipgratis.si
   - paqqlk.motatos.de
   - paqvfi.petzone.com
-  - paradoxfactor.com
   - parakeet.buildcodelearn.com
   - parakeet.jorenvanhocht.be
   - parakeet.kenleyar.ai
@@ -41089,6 +41097,7 @@ domain_suffix_set:
   - petargumentswhirlpool.com
   - petchesa.net
   - petchoub.com
+  - petherobjure.top
   - petrolgraphcredibility.com
   - pettlesmethol.com
   - peuzhq.bookspot.be
@@ -43592,6 +43601,7 @@ domain_suffix_set:
   - receiver.habby.mobi
   - receptivereaction.com
   - recessionspeaksanybody.com
+  - recessrain.com
   - rechenschieber.soccerdonna.de
   - rechenschieber.transfermarkt.at
   - rechenschieber.transfermarkt.be
@@ -44064,6 +44074,7 @@ domain_suffix_set:
   - retrefsf.cn
   - retrieval-bd.duote.com
   - retripmoppers.com
+  - retrosowenian.shop
   - retsifergoumti.net
   - rettornrhema.com
   - reuniondepadres.unisabana.edu.co
@@ -44135,6 +44146,7 @@ domain_suffix_set:
   - rghpjl.tsuchiya-kaban.jp
   - rgjbtn.paleokorea.co.kr
   - rgjeqr.europcar.fr
+  - rgju.cn
   - rgmmeff.icu
   - rgmseo.thejewellershop.com
   - rgrd.xyz
@@ -46090,7 +46102,6 @@ domain_suffix_set:
   - secure.informationcreativeinnovative.com
   - secure.insightful-cloud-365.com
   - secure.insightful-enterprise-intelligence.com
-  - secure.intelligent-consortium.com
   - secure.investingwithmind.com
   - secure.late6year.com
   - secure.laurelsprings.com
@@ -46567,7 +46578,6 @@ domain_suffix_set:
   - service.hcob-bank.de
   - service.just.nl
   - service.pickuptravelguide.com
-  - service.techzine.eu
   - service.trustpid.com
   - serviceo.comcast.net
   - serviceo.xfinity.com
@@ -54172,7 +54182,6 @@ domain_suffix_set:
   - threewoodslose.com
   - threkuth.com
   - threrlak.com
-  - thrillasoft.com
   - thrive.metagenics.com
   - thrivescriss.com
   - thronosgeneura.com
@@ -56982,6 +56991,7 @@ domain_suffix_set:
   - tracking.care.salinasvalleyhealth.com
   - tracking.carpshop24.com
   - tracking.carsales.com.au
+  - tracking.cat898.com
   - tracking.cdiscount.com
   - tracking.cello-square.com
   - tracking.cengage.com
@@ -60330,6 +60340,7 @@ domain_suffix_set:
   - viper.kyrelldixon.com
   - viper.sitesauce.app
   - vipgogo123.site
+  - viphirsaick.net
   - vipicmou.net
   - vipimo.hohenlohe.de
   - vipwao.nutrimuscle.com
@@ -60433,6 +60444,7 @@ domain_suffix_set:
   - vlikiq.thelabellife.com
   - vlitag.com
   - vlogerads.com
+  - vlogs.deja.media
   - vlrlav.rodinnebalenie.sk
   - vlupvo.innerartworld.com
   - vlzcsh.dtrtmen.com
@@ -61731,7 +61743,6 @@ domain_suffix_set:
   - winslinks.com
   - winzessolicit.com
   - wipzxpbs.com
-  - wiredforcoffee.com
   - wirjoi.meetsmore.com
   - wirsilsa.net
   - wirtooxoajet.net
@@ -62137,6 +62148,7 @@ domain_suffix_set:
   - wumufama.com
   - wuncqh.cooksongold.com
   - wunqlc.anayi.com
+  - wup-2ffe60ee.westpac.com.au
   - wuporg.com
   - wuresde.top
   - wurst.hausschlachtebedarf.de
@@ -64170,9 +64182,11 @@ ip_cidr_set:
   - 118.89.204.198/32
   - 119.29.29.98/31
   - 123.151.54.50/32
+  - 180.76.76.200/32
   - 182.254.116.117/32
   - 182.254.118.119/32
-  - 186.76.76.200/32
+  - 202.90.108.13/32
+  - 202.90.110.46/32
   - 203.107.1.0/24
   - 203.119.204.66/32
   - 203.119.238.194/32
