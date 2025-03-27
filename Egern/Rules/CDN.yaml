@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3366
+# 规则统计: 3371
 
 domain_set:
   - 0x0.st
@@ -249,7 +249,6 @@ domain_set:
   - assetscdn-wchat.eu.freshchat.com
   - assetscdn.jable.tv
   - at.cbsi.com
-  - atn.hitomi.la
   - attachments.office.net
   - auth.split.io
   - avatar.freepik.com
@@ -285,7 +284,7 @@ domain_set:
   - brick.a.ssl.fastly.net
   - brick.freetls.fastly.net
   - bst.icons8.com
-  - btn.hitomi.la
+  - bucket1.notaku.so
   - bundle.dyn-rev.app
   - bundle.trysavvy.com
   - bundlephobia.com
@@ -443,6 +442,7 @@ domain_set:
   - cdn.drata.com
   - cdn.dribbble.com
   - cdn.dynamicyield.com
+  - cdn.earthroulette.com
   - cdn.ecomm.ui.com
   - cdn.embed.ly
   - cdn.embedly.com
@@ -595,6 +595,7 @@ domain_set:
   - cdn.safecharge.com
   - cdn.sanity.io
   - cdn.sc.gl
+  - cdn.scaleflex.it
   - cdn.schemaapp.com
   - cdn.sciencecast.org
   - cdn.scripts.wtwhmedia.com
@@ -778,6 +779,7 @@ domain_set:
   - clientsdk.launchdarkly.com
   - clientstream.launchdarkly.com
   - clips-media-assets2.twitch.tv
+  - clips.kick.com
   - cloud.redhat.com
   - cloud.typenetwork.com
   - cloudflare.tv
@@ -966,6 +968,7 @@ domain_set:
   - files.armorgames.com
   - files.buildwithfern.com
   - files.jotform.com
+  - files.kick.com
   - files.mastodon.ktachibana.party
   - files.mastodon.online
   - files.mastodon.social
@@ -1017,12 +1020,14 @@ domain_set:
   - glyph.medium.com
   - gmedia.playstation.com
   - gn-web-assets.api.bbc.com
+  - go.imperva.com
   - go.vercel.com
   - godoc.org
   - google-ohttp-relay-safebrowsing.fastly-edge.com
   - gopkg.in
   - graph.facebook.com
   - gravatar.cat.net
+  - gstatic.com
   - gt1.onlyhentaistuff.com
   - gtranslate.io
   - hawk.tomsguide.com
@@ -1080,6 +1085,7 @@ domain_set:
   - icons.ly
   - icons.zeabur.com
   - iframe.nbcnews.com
+  - ik.imgkit.net
   - imag.malavida.com
   - image-forwarder.notaku.so
   - image.ap-mail.org
@@ -1139,6 +1145,7 @@ domain_set:
   - images.freeimages.com
   - images.g2crowd.com
   - images.idgesg.net
+  - images.kick.com
   - images.macrumors.com
   - images.mattel.net
   - images.microcms-assets.io
@@ -1292,7 +1299,6 @@ domain_set:
   - info.cloudflare.com
   - info.knak.com
   - int.mwbbiz.com
-  - int.qiniuyun15.xyz
   - integrations.gitbook.com
   - interactive-examples.mdn.mozilla.net
   - interactive.guim.co.uk
@@ -1372,7 +1378,6 @@ domain_set:
   - logos.kiwibrowser.com
   - logos.speedtestcustom.com
   - loutre.blockchair.io
-  - ltn.hitomi.la
   - lumiere-a.akamaihd.net
   - m-cdn.phonearena.com
   - m.porn3dx.com
@@ -1528,7 +1533,6 @@ domain_set:
   - openapi.vercel.sh
   - openseauserdata.com
   - opensignal.cdnbye.com
-  - opt.moovweb.net
   - optimizationguide-pa.googleapis.com
   - optimizely.com
   - organizer.bizzabo.com
@@ -1985,7 +1989,6 @@ domain_set:
   - static.iris.informa.com
   - static.itch.io
   - static.j51.net
-  - static.javatpoint.com
   - static.javcdn.info
   - static.javhd.com
   - static.jsbin.com
@@ -2071,6 +2074,7 @@ domain_set:
   - static.underhentai.net
   - static.uptimia.com
   - static.v2ex.com
+  - static.vanta.com
   - static.vinted.com
   - static.vocadb.net
   - static.webclicks24.com
@@ -2115,7 +2119,6 @@ domain_set:
   - stats.setapp.macpaw.dev
   - status.ui.com
   - stbff.newfold.com
-  - stbff.scene7.com
   - steamcdn-a.akamaihd.net
   - steamusercontent-a.akamaihd.net
   - steamuserimages-a.akamaihd.net
@@ -2543,6 +2546,7 @@ domain_suffix_set:
   - csp.withgoogle.com
   - ctfassets.net
   - cthd.icu
+  - customerioforms.com
   - cwwcdn.com
   - data.debugbear.com
   - dataplane.rudderstack.com
@@ -2674,6 +2678,7 @@ domain_suffix_set:
   - gitpage.si
   - glass.adidas.com
   - glbimg.com
+  - gold-usergeneratedcontent.net
   - googleadservices.com
   - googleusercontent.com
   - gravatar.com

@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 176
+# 规则统计: 182
 
 DOMAIN,2pfdml.mobaiemby.site
 DOMAIN,cc.coemn.com
@@ -10,6 +10,8 @@ DOMAIN,emby.nebula-media.org
 DOMAIN,notnetflix.cos.cat
 DOMAIN,starharn-cf.nebula-media.org
 DOMAIN,starharn.nebula-media.org
+DOMAIN,web-starharn.nebula-media.org
+DOMAIN,web.nebula-media.org
 DOMAIN-SUFFIX,123456.al
 DOMAIN-SUFFIX,16bit.cfd
 DOMAIN-SUFFIX,20120714.xyz
@@ -168,7 +170,10 @@ DOMAIN-SUFFIX,xiaoyi.one
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,zi0.icu
 DOMAIN-SUFFIX,zox.show
+IP-CIDR,103.197.185.84/32,no-resolve
+IP-CIDR,148.135.94.8/32,no-resolve
 IP-CIDR,152.53.67.239/32,no-resolve
+IP-CIDR,154.40.33.88/32,no-resolve
 IP-CIDR,168.119.137.205/32,no-resolve
 IP-CIDR,188.172.228.49/32,no-resolve
 IP-CIDR,195.128.100.146/32,no-resolve
@@ -177,3 +182,4 @@ IP-CIDR,195.201.86.86/32,no-resolve
 IP-CIDR,202.61.247.129/32,no-resolve
 IP-CIDR,202.61.255.248/32,no-resolve
 IP-CIDR,212.90.120.164/32,no-resolve
+IP-CIDR,37.123.192.219/32,no-resolve
