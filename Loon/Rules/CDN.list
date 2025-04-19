@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3463
+# 规则统计: 3471
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -28,6 +28,7 @@ DOMAIN,akamai-assets.squarespace.com
 DOMAIN,alt.idgesg.net
 DOMAIN,amazon-omni-cdn.com
 DOMAIN,amp.azure.net
+DOMAIN,analytics.canarymail.io
 DOMAIN,analytics.twitter.com
 DOMAIN,analytics.welcomesoftware.com
 DOMAIN,anchor.digitalocean.com
@@ -326,6 +327,7 @@ DOMAIN,cacerts.digicert.com
 DOMAIN,cache-05.filehippo.net
 DOMAIN,cache.armorgames.com
 DOMAIN,cache.hackedfreegames.com
+DOMAIN,canny-assets.io
 DOMAIN,cassette.sphdigital.com.sg
 DOMAIN,cc-embed.adobe.com
 DOMAIN,cc.boyfriendtv.com
@@ -882,6 +884,7 @@ DOMAIN,damassets.autodesk.net
 DOMAIN,dassets.shimano.com
 DOMAIN,data.jsdelivr.com
 DOMAIN,data.pendo.io
+DOMAIN,data.schemaapp.com
 DOMAIN,data.web.clickup.com
 DOMAIN,david-dm.org
 DOMAIN,db.onlinewebfonts.com
@@ -1020,6 +1023,7 @@ DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebaseinstallations.googleapis.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
+DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN,firefox.settings.services.mozilla.com
 DOMAIN,fiverr-res.cloudinary.com
 DOMAIN,flo.uri.sh
@@ -2151,6 +2155,7 @@ DOMAIN,static.xns.one
 DOMAIN,static.xxxshake.com
 DOMAIN,static.zaobao.com
 DOMAIN,static.zaobao.com.sg
+DOMAIN,static.zuora.com
 DOMAIN,static01.nyt.com
 DOMAIN,static02.nyt.com
 DOMAIN,static1.lottiefiles.com
@@ -2184,6 +2189,7 @@ DOMAIN,staticw2.yotpo.com
 DOMAIN,stats.codesandbox.io
 DOMAIN,stats.setapp.com
 DOMAIN,stats.setapp.macpaw.dev
+DOMAIN,status.canarymail.io
 DOMAIN,status.ui.com
 DOMAIN,stbff.newfold.com
 DOMAIN,steamcdn-a.akamaihd.net
@@ -2251,6 +2257,7 @@ DOMAIN,thumbsnap.com
 DOMAIN,tiles.stadiamaps.com
 DOMAIN,tiles.windy.com
 DOMAIN,time.cloudflare.com
+DOMAIN,time.google.com
 DOMAIN,time.windows.com
 DOMAIN,tn.txxx.tube
 DOMAIN,tn.vjav.com
@@ -2687,6 +2694,7 @@ DOMAIN-SUFFIX,ezocdn.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f.hubspotemail.net
 DOMAIN-SUFFIX,f.hubspotfree.net
+DOMAIN-SUFFIX,f.hubspotstarter.net
 DOMAIN-SUFFIX,faceit-cdn.net
 DOMAIN-SUFFIX,fakeimg.pl
 DOMAIN-SUFFIX,fakestoreapi.com

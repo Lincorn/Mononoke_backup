@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3463
+# 规则统计: 3471
 
 domain_set:
   - 0x0.st
@@ -29,6 +29,7 @@ domain_set:
   - alt.idgesg.net
   - amazon-omni-cdn.com
   - amp.azure.net
+  - analytics.canarymail.io
   - analytics.twitter.com
   - analytics.welcomesoftware.com
   - anchor.digitalocean.com
@@ -327,6 +328,7 @@ domain_set:
   - cache-05.filehippo.net
   - cache.armorgames.com
   - cache.hackedfreegames.com
+  - canny-assets.io
   - cassette.sphdigital.com.sg
   - cc-embed.adobe.com
   - cc.boyfriendtv.com
@@ -883,6 +885,7 @@ domain_set:
   - dassets.shimano.com
   - data.jsdelivr.com
   - data.pendo.io
+  - data.schemaapp.com
   - data.web.clickup.com
   - david-dm.org
   - db.onlinewebfonts.com
@@ -1021,6 +1024,7 @@ domain_set:
   - firebaseinstallations.googleapis.com
   - firebaselogging-pa.googleapis.com
   - firebaselogging.googleapis.com
+  - firebaseremoteconfig.googleapis.com
   - firefox.settings.services.mozilla.com
   - fiverr-res.cloudinary.com
   - flo.uri.sh
@@ -2152,6 +2156,7 @@ domain_set:
   - static.xxxshake.com
   - static.zaobao.com
   - static.zaobao.com.sg
+  - static.zuora.com
   - static01.nyt.com
   - static02.nyt.com
   - static1.lottiefiles.com
@@ -2185,6 +2190,7 @@ domain_set:
   - stats.codesandbox.io
   - stats.setapp.com
   - stats.setapp.macpaw.dev
+  - status.canarymail.io
   - status.ui.com
   - stbff.newfold.com
   - steamcdn-a.akamaihd.net
@@ -2252,6 +2258,7 @@ domain_set:
   - tiles.stadiamaps.com
   - tiles.windy.com
   - time.cloudflare.com
+  - time.google.com
   - time.windows.com
   - tn.txxx.tube
   - tn.vjav.com
@@ -2689,6 +2696,7 @@ domain_suffix_set:
   - f-droid.org
   - f.hubspotemail.net
   - f.hubspotfree.net
+  - f.hubspotstarter.net
   - faceit-cdn.net
   - fakeimg.pl
   - fakestoreapi.com

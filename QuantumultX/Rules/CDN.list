@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3463
+# 规则统计: 3471
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -28,6 +28,7 @@ HOST,akamai-assets.squarespace.com,CDN
 HOST,alt.idgesg.net,CDN
 HOST,amazon-omni-cdn.com,CDN
 HOST,amp.azure.net,CDN
+HOST,analytics.canarymail.io,CDN
 HOST,analytics.twitter.com,CDN
 HOST,analytics.welcomesoftware.com,CDN
 HOST,anchor.digitalocean.com,CDN
@@ -326,6 +327,7 @@ HOST,cacerts.digicert.com,CDN
 HOST,cache-05.filehippo.net,CDN
 HOST,cache.armorgames.com,CDN
 HOST,cache.hackedfreegames.com,CDN
+HOST,canny-assets.io,CDN
 HOST,cassette.sphdigital.com.sg,CDN
 HOST,cc-embed.adobe.com,CDN
 HOST,cc.boyfriendtv.com,CDN
@@ -882,6 +884,7 @@ HOST,damassets.autodesk.net,CDN
 HOST,dassets.shimano.com,CDN
 HOST,data.jsdelivr.com,CDN
 HOST,data.pendo.io,CDN
+HOST,data.schemaapp.com,CDN
 HOST,data.web.clickup.com,CDN
 HOST,david-dm.org,CDN
 HOST,db.onlinewebfonts.com,CDN
@@ -1020,6 +1023,7 @@ HOST,firebase-settings.crashlytics.com,CDN
 HOST,firebaseinstallations.googleapis.com,CDN
 HOST,firebaselogging-pa.googleapis.com,CDN
 HOST,firebaselogging.googleapis.com,CDN
+HOST,firebaseremoteconfig.googleapis.com,CDN
 HOST,firefox.settings.services.mozilla.com,CDN
 HOST,fiverr-res.cloudinary.com,CDN
 HOST,flo.uri.sh,CDN
@@ -2151,6 +2155,7 @@ HOST,static.xns.one,CDN
 HOST,static.xxxshake.com,CDN
 HOST,static.zaobao.com,CDN
 HOST,static.zaobao.com.sg,CDN
+HOST,static.zuora.com,CDN
 HOST,static01.nyt.com,CDN
 HOST,static02.nyt.com,CDN
 HOST,static1.lottiefiles.com,CDN
@@ -2184,6 +2189,7 @@ HOST,staticw2.yotpo.com,CDN
 HOST,stats.codesandbox.io,CDN
 HOST,stats.setapp.com,CDN
 HOST,stats.setapp.macpaw.dev,CDN
+HOST,status.canarymail.io,CDN
 HOST,status.ui.com,CDN
 HOST,stbff.newfold.com,CDN
 HOST,steamcdn-a.akamaihd.net,CDN
@@ -2251,6 +2257,7 @@ HOST,thumbsnap.com,CDN
 HOST,tiles.stadiamaps.com,CDN
 HOST,tiles.windy.com,CDN
 HOST,time.cloudflare.com,CDN
+HOST,time.google.com,CDN
 HOST,time.windows.com,CDN
 HOST,tn.txxx.tube,CDN
 HOST,tn.vjav.com,CDN
@@ -2687,6 +2694,7 @@ HOST-SUFFIX,ezocdn.com,CDN
 HOST-SUFFIX,f-droid.org,CDN
 HOST-SUFFIX,f.hubspotemail.net,CDN
 HOST-SUFFIX,f.hubspotfree.net,CDN
+HOST-SUFFIX,f.hubspotstarter.net,CDN
 HOST-SUFFIX,faceit-cdn.net,CDN
 HOST-SUFFIX,fakeimg.pl,CDN
 HOST-SUFFIX,fakestoreapi.com,CDN
