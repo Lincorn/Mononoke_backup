@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3472
+# 规则统计: 3476
 
 domain_set:
   - 0x0.st
@@ -75,6 +75,7 @@ domain_set:
   - apps.bazaarvoice.com
   - apps.profitihub.com
   - apps.sophi.io
+  - apps.voxmedia.com
   - archive.mozilla.org
   - artworks.thetvdb.com
   - asset-cdn.uscardforum.com
@@ -1193,6 +1194,7 @@ domain_set:
   - images.flightradar24.com
   - images.freeimages.com
   - images.g2crowd.com
+  - images.github.media
   - images.idgesg.net
   - images.kick.com
   - images.loox.io
@@ -1657,6 +1659,7 @@ domain_set:
   - platform.instagram.com
   - platform.theverge.com
   - platform.twitter.com
+  - platform.vox.com
   - platforms.makemytrip.com
   - play.gotolstoy.com
   - play.izanmei.net
@@ -2049,6 +2052,7 @@ domain_set:
   - static.heavy-r.com
   - static.helpjuice.com
   - static.hotjar.com
+  - static.hugedomains.com
   - static.ietf.org
   - static.ifunny.co
   - static.incapsula.com

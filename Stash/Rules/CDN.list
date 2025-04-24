@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3470
+# 规则统计: 3474
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -74,6 +74,7 @@ DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,apps.bazaarvoice.com
 DOMAIN,apps.profitihub.com
 DOMAIN,apps.sophi.io
+DOMAIN,apps.voxmedia.com
 DOMAIN,archive.mozilla.org
 DOMAIN,artworks.thetvdb.com
 DOMAIN,asset-cdn.uscardforum.com
@@ -1192,6 +1193,7 @@ DOMAIN,images.financemagnates.com
 DOMAIN,images.flightradar24.com
 DOMAIN,images.freeimages.com
 DOMAIN,images.g2crowd.com
+DOMAIN,images.github.media
 DOMAIN,images.idgesg.net
 DOMAIN,images.kick.com
 DOMAIN,images.loox.io
@@ -1656,6 +1658,7 @@ DOMAIN,platform-assets.typekit.net
 DOMAIN,platform.instagram.com
 DOMAIN,platform.theverge.com
 DOMAIN,platform.twitter.com
+DOMAIN,platform.vox.com
 DOMAIN,platforms.makemytrip.com
 DOMAIN,play.gotolstoy.com
 DOMAIN,play.izanmei.net
@@ -2048,6 +2051,7 @@ DOMAIN,static.guim.co.uk
 DOMAIN,static.heavy-r.com
 DOMAIN,static.helpjuice.com
 DOMAIN,static.hotjar.com
+DOMAIN,static.hugedomains.com
 DOMAIN,static.ietf.org
 DOMAIN,static.ifunny.co
 DOMAIN,static.incapsula.com
