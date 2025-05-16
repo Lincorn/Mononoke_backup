@@ -1,7 +1,31 @@
 # Clash Config Make by Coldvvater
 # TG Channel: https://t.me/Coldvvater_Channel
 # GitHub: https://github.com/Coldvvater
-# Update Date: 2025.05.01
+# Update Date: 2025.05.16
+
+
+# 远程订阅
+proxy-providers:
+  provider1:
+    url: ""
+    type: http
+    interval: 86400
+    health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
+    override:
+      additional-prefix: "[provider1]"
+
+  provider2:
+    url: ""
+    type: http
+    interval: 86400
+    health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
+    override:
+      additional-prefix: "[provider2]"
+# 1. 请把订阅链接填入到provider1或provider2下面的url后的引号""内使用,订阅名称可自行重命名，不能重复。
+# 2. 或可通过Sub-Store进行订阅转换(或需自建Sub-Store服务)。
+
+# 本地服务器
+proxies: null
 
 #port: 7891                          # HTTP(S) 代理服务器端口
 #socks-port: 7892                    # SOCKS5 代理端口
@@ -28,7 +52,7 @@ external-ui-url: 'https://gh-proxy.com/https://github.com/MetaCubeX/Yacd-meta/ar
 
 secret: ""                           # 自定义 API 的访问密钥
 
-geodata-mode: false                  # 更改 geoip 使用文件，mmdb 或者 dat，可选 true/false,true为 dat，此项有默认值 false
+geodata-mode: true                   # 更改 geoip 使用文件，mmdb 或者 dat，可选 true/false,true为 dat，此项有默认值 false
 geodata-loader: memconservative      # GEO 文件加载模式，standard：标准加载器 memconservative：专为内存受限 (小内存) 设备优化的加载器 (默认值)
 geo-auto-update: true                # 自动更新 GEO
 geo-update-interval: 24              # 更新间隔，单位为小时
@@ -78,16 +102,11 @@ dns:
   fake-ip-range: 198.18.0.0/16       # Fake-IP 解析地址池
   fake-ip-filter: ['*', '+.lan', '+.local', '+.market.xiaomi.com', '+.msftconnecttest.com', '+.msftncsi.com']
                                      # Fake-ip 过滤，列表中的域名返回真实IP
-  respect-rules: true                # dns 连接跟随 rules，需配置 proxy-server-nameserver
-  default-nameserver: [223.5.5.5, 119.29.29.29]
+  respect-rules: false               # dns 连接跟随 rules，需配置 proxy-server-nameserver
+  default-nameserver: [tls://223.5.5.5, tls://223.6.6.6]
                                      # 解析非IP的dns用的dns服务器，只支持纯IP, 可为加密 DNS
-  proxy-server-nameserver: [https://dns.alidns.com/dns-query, https://doh.pub/dns-query]
-                                     # 代理节点域名解析服务器，仅用于解析代理节点的域名
   nameserver: [https://dns.alidns.com/dns-query, https://doh.pub/dns-query]
                                      # 默认DNS服务器，支持udp/tcp/dot/doh/doq
-  nameserver-policy:                 # 指定域名查询的解析服务器，可使用 geosite, 优先于 nameserver/fallback 查询
-    rule-set:cn-domain,private-domain: [https://dns.alidns.com/dns-query, https://doh.pub/dns-query]
-    rule-set:proxy-domain: [https://dns.google/dns-query, https://dns.cloudflare.com/dns-query]
 
 ######### 锚点 start #########
 
@@ -115,19 +134,7 @@ FallBack: &FallBack {type: fallback, interval: 300, lazy: true, url: 'http://www
 
 LoadBalance: &LoadBalance {type: load-balance, interval: 300, lazy: true, url: 'http://www.gstatic.com/generate_204', disable-udp: false, strategy: consistent-hashing, timeout: 2000, max-failed-times: 3, hidden: true, include-all-providers: true}
 
-# 远程订阅相关
-p: &p {type: http, interval: 42300, health-check: {enable: true, url: http://www.gstatic.com/generate_204, interval: 300}}
-
 ######### 锚点 end #########
-
-# 本地服务器
-proxies: null
-
-# 远程订阅
-proxy-providers: 
-  Subscribe: {<<: *p, path: ./proxy_providers/subscribe.yaml, url: ""}
-# 1. 请把订阅链接填入引号""内使用,
-# 2. 或可通过Sub-Store进行订阅转换(或需自建Sub-Store服务)。
 
 # 代理组
 proxy-groups: 
