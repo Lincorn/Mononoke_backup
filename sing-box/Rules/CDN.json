@@ -1662,6 +1662,7 @@
         "netlify.apollo.io",
         "newassets.hcaptcha.com",
         "news-assets.apple.com",
+        "news-data.pts.org.tw",
         "newsletter.postmarkapp.com",
         "next-images.123rf.com",
         "next-images.opencollective.com",
@@ -2147,6 +2148,7 @@
         "static.filestackapi.com",
         "static.foxbusiness.com",
         "static.foxnews.com",
+        "static.frame.work",
         "static.freedownloadmanager.org",
         "static.freeimages.com",
         "static.getbutton.io",
@@ -2370,6 +2372,7 @@
         "telemetry.stepsecurity.io",
         "telemetry.vercel.com",
         "telemetry2.devolutions.net",
+        "texture.laby.net",
         "th.bing.com",
         "th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe",
         "themes.fourthwall.com",
@@ -2550,7 +2553,8 @@
         "wwwimages2.adobe.com",
         "xpaywalletcdn.azureedge.net",
         "yep.video.yahoo.com",
-        "zephr-templates.cnbc.com"
+        "zephr-templates.cnbc.com",
+        "zod.dev"
       ]
     },
     {
@@ -2740,6 +2744,7 @@
         "chasecdn.com",
         "chcdn.xyz",
         "chesscomfiles.com",
+        "cktu01.sbs",
         "claudeusercontent.com",
         "cldup.com",
         "clientmetrics-pa.googleapis.com",
