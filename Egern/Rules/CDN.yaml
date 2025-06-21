@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3695
+# 规则统计: 3700
 
 domain_set:
   - 0x0.st
@@ -876,6 +876,7 @@ domain_set:
   - cloud.typenetwork.com
   - cloudflare.tv
   - cloudfront.barilliance.com
+  - cloudfront.codeproject.com
   - cloudinary-res.cloudinary.com
   - cmp-cdn.p.aws.economist.com
   - cms-assets.nodecraft.com
@@ -1747,6 +1748,7 @@ domain_set:
   - pbc.nypost.com
   - pbc.wsj.com
   - pbcdn1.podbean.com
+  - pbs-prod.linustechtips.com
   - pbs.floatplane.com
   - pcdn-my.pcloud.com
   - pcdn-www.pcloud.com
@@ -1984,6 +1986,7 @@ domain_set:
   - screenshots.downloadtorrentfile.com
   - screenshots.webflow.com
   - scripts.dailymail.co.uk
+  - scripts.scriptwrapper.com
   - scripts.webeo.com
   - sdata.ndtv.com
   - sdk.customfit.ai
@@ -2271,6 +2274,7 @@ domain_set:
   - static.registration.bluehost.com
   - static.reo.dev
   - static.replay.io
+  - static.salidzini.lv
   - static.scarf.sh
   - static.seel.com
   - static.serverhunter.com
@@ -3120,6 +3124,7 @@ domain_suffix_set:
   - jdbstatic.com
   - jinyingimage.com
   - jisuimage.com
+  - jotai.org
   - jpg5.su
   - jpgjingpinx.com
   - js-eu1.hubspot.com
