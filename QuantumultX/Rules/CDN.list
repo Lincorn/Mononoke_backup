@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3838
+# 规则统计: 3850
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -51,7 +51,6 @@ HOST,api.fontshare.com,CDN
 HOST,api.iconify.design,CDN
 HOST,api.indexnow.org,CDN
 HOST,api.instantly.ai,CDN
-HOST,api.mintlify.com,CDN
 HOST,api.mixpanel.com,CDN
 HOST,api.producthunt.com,CDN
 HOST,api.pwnedpasswords.com,CDN
@@ -60,6 +59,7 @@ HOST,api.roboflow.com,CDN
 HOST,api.weather.com,CDN
 HOST,api.web3.storage,CDN
 HOST,apichatwidget.usepylon.com,CDN
+HOST,apim.m3pd.com,CDN
 HOST,app-api.vidjet.io,CDN
 HOST,app-spm.com,CDN
 HOST,app-static.eu.posthog.com,CDN
@@ -559,6 +559,7 @@ HOST,cdn.hashnode.com,CDN
 HOST,cdn.headwayapp.co,CDN
 HOST,cdn.hellofresh.com,CDN
 HOST,cdn.hextom.com,CDN
+HOST,cdn.highporn.net,CDN
 HOST,cdn.hiive.space,CDN
 HOST,cdn.hinative.com,CDN
 HOST,cdn.hk01.com,CDN
@@ -723,6 +724,7 @@ HOST,cdn.stash.com,CDN
 HOST,cdn.staticdelivr.com,CDN
 HOST,cdn.staticswin.com,CDN
 HOST,cdn.stellarhosted.com,CDN
+HOST,cdn.streamlabs.com,CDN
 HOST,cdn.substack.com,CDN
 HOST,cdn.sunofbeaches.com,CDN
 HOST,cdn.svgator.com,CDN
@@ -1076,6 +1078,7 @@ HOST,embed.runkit.com,CDN
 HOST,embed.savvycal.com,CDN
 HOST,embed.tawk.to,CDN
 HOST,embed.ted.com,CDN
+HOST,embed.twitch.tv,CDN
 HOST,embed.typeform.com,CDN
 HOST,embedr.flickr.com,CDN
 HOST,embedwistia-a.akamaihd.net,CDN
@@ -1090,6 +1093,7 @@ HOST,encrypted-vtbn0.gstatic.com,CDN
 HOST,encrypted-vtbn1.gstatic.com,CDN
 HOST,encrypted-vtbn2.gstatic.com,CDN
 HOST,encrypted-vtbn3.gstatic.com,CDN
+HOST,eomd1.fembeqq.xyz,CDN
 HOST,epic-social-social-modules-prod.ol.epicgames.com,CDN
 HOST,error.rakuten.co.jp,CDN
 HOST,eslint-react.xyz,CDN
@@ -1265,6 +1269,7 @@ HOST,i.xxxshake.com,CDN
 HOST,i2.anysex.com,CDN
 HOST,i2.bahamut.com.tw,CDN
 HOST,i2.hentaifox.com,CDN
+HOST,i2.nhentai.net,CDN
 HOST,i3.anysex.com,CDN
 HOST,i4.anysex.com,CDN
 HOST,ias.r10s.jp,CDN
@@ -1337,6 +1342,7 @@ HOST,images.arigatotravel.com,CDN
 HOST,images.axios.com,CDN
 HOST,images.bfmtv.com,CDN
 HOST,images.blackmagicdesign.com,CDN
+HOST,images.blockscan.com,CDN
 HOST,images.carfax.com,CDN
 HOST,images.contentful.com,CDN
 HOST,images.contentstack.io,CDN
@@ -1446,6 +1452,7 @@ HOST,img.fortawesome.com,CDN
 HOST,img.freepik.com,CDN
 HOST,img.hellofresh.com,CDN
 HOST,img.hentaihaven.xxx,CDN
+HOST,img.highporn.net,CDN
 HOST,img.huffingtonpost.com,CDN
 HOST,img.icons8.com,CDN
 HOST,img.ifunny.co,CDN
@@ -2131,6 +2138,7 @@ HOST,sourcepoint.theguardian.com,CDN
 HOST,sp-spiegel-de.spiegel.de,CDN
 HOST,sp.nba.com,CDN
 HOST,sp.replit.com,CDN
+HOST,sp.streamlabs.com,CDN
 HOST,spcdn.incartupsell.com,CDN
 HOST,spoprod-a.akamaihd.net,CDN
 HOST,sprig.figma.com,CDN
@@ -2150,6 +2158,7 @@ HOST,start-page.buffer.com,CDN
 HOST,static-00.iconduck.com,CDN
 HOST,static-1.bitchute.com,CDN
 HOST,static-2.bitchute.com,CDN
+HOST,static-2c.gitbook.com,CDN
 HOST,static-2v.gitbook.com,CDN
 HOST,static-3.bitchute.com,CDN
 HOST,static-4.bitchute.com,CDN
@@ -2488,6 +2497,7 @@ HOST,t0.gstatic.com,CDN
 HOST,t1.gstatic.com,CDN
 HOST,t1.picb.cc,CDN
 HOST,t2.gstatic.com,CDN
+HOST,t2.nhentai.net,CDN
 HOST,t2.picb.cc,CDN
 HOST,t3.gstatic.com,CDN
 HOST,t3.picb.cc,CDN
@@ -2754,6 +2764,7 @@ HOST-SUFFIX,angularjs.org,CDN
 HOST-SUFFIX,anpoimages.com,CDN
 HOST-SUFFIX,anpustream.com,CDN
 HOST-SUFFIX,ant.design,CDN
+HOST-SUFFIX,anyhentai.com,CDN
 HOST-SUFFIX,aolcdn.com,CDN
 HOST-SUFFIX,aosikaimage.com,CDN
 HOST-SUFFIX,api.instabug.com,CDN
@@ -3709,6 +3720,7 @@ HOST-SUFFIX,warnermediacdn.com,CDN
 HOST-SUFFIX,watchlycdn.com,CDN
 HOST-SUFFIX,wdfiles.com,CDN
 HOST-SUFFIX,web.app,CDN
+HOST-SUFFIX,webinfcdn.com,CDN
 HOST-SUFFIX,webp.se,CDN
 HOST-SUFFIX,webpkgcache.com,CDN
 HOST-SUFFIX,website-files.com,CDN
