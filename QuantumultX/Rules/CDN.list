@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3885
+# 规则统计: 3902
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -56,6 +56,8 @@ HOST,api.producthunt.com,CDN
 HOST,api.pwnedpasswords.com,CDN
 HOST,api.qrserver.com,CDN
 HOST,api.roboflow.com,CDN
+HOST,api.simplesvg.com,CDN
+HOST,api.unisvg.com,CDN
 HOST,api.weather.com,CDN
 HOST,api.web3.storage,CDN
 HOST,apichatwidget.usepylon.com,CDN
@@ -312,6 +314,7 @@ HOST,before.good-apps.co,CDN
 HOST,bhl.scpwikicn.com,CDN
 HOST,blacklist.tampermonkey.net,CDN
 HOST,blade-public-static.blade-group.com,CDN
+HOST,blob.jortage.com,CDN
 HOST,blob.sololearn.com,CDN
 HOST,boards.greenhouse.io,CDN
 HOST,bookface-static.ycombinator.com,CDN
@@ -947,6 +950,7 @@ HOST,cms.blavity.com,CDN
 HOST,cms.recordedfuture.com,CDN
 HOST,cms.therecord.media,CDN
 HOST,cms.typenetwork.com,CDN
+HOST,cms.worldpokerdeals.com,CDN
 HOST,cmtycdn.powerpages.microsoft.com,CDN
 HOST,code.benco.io,CDN
 HOST,code.buywithprime.amazon.com,CDN
@@ -1006,6 +1010,7 @@ HOST,creator-image.javhd.com,CDN
 HOST,crl.usertrust.com,CDN
 HOST,crl.verisign.com,CDN
 HOST,crt.comodoca.com,CDN
+HOST,crt.sectigo.com,CDN
 HOST,crt.usertrust.com,CDN
 HOST,csp.microsoft.com,CDN
 HOST,css-1-cdn.airdroid.com,CDN
@@ -1297,6 +1302,7 @@ HOST,icons.internetbrands.com,CDN
 HOST,icons.leavemealone.com,CDN
 HOST,icons.llamao.fi,CDN
 HOST,icons.ly,CDN
+HOST,icons.simplesvg.com,CDN
 HOST,icons.veryicon.com,CDN
 HOST,icons.zeabur.com,CDN
 HOST,iframe.nbcnews.com,CDN
@@ -1621,6 +1627,7 @@ HOST,jssocdn.indiatimes.com,CDN
 HOST,kdata1.com,CDN
 HOST,keyframe-cdn.abcnews.com,CDN
 HOST,lain.bgm.tv,CDN
+HOST,lastfm.freetls.fastly.net,CDN
 HOST,latency-test.lab.skk.moe,CDN
 HOST,latency-test.skk.moe,CDN
 HOST,launcher-files.modrinth.com,CDN
@@ -1646,6 +1653,7 @@ HOST,live.fanmingming.com,CDN
 HOST,live.visually-io.com,CDN
 HOST,livedoor.blogimg.jp,CDN
 HOST,livemap-tiles1.waze.com,CDN
+HOST,lm.visualon.info,CDN
 HOST,load.csell.co,CDN
 HOST,loader.mantis-intelligence.com,CDN
 HOST,log-collector.17app.co,CDN
@@ -2157,6 +2165,7 @@ HOST,snippets.freshchat.com,CDN
 HOST,snyk-widget.herokuapp.com,CDN
 HOST,social-cdn.vivaldi.net,CDN
 HOST,social-reaction-api.hk01.com,CDN
+HOST,socialpic.video.friday.tw,CDN
 HOST,solve-widget.forethought.ai,CDN
 HOST,source.domaintools.com,CDN
 HOST,source.unsplash.com,CDN
@@ -2568,6 +2577,8 @@ HOST,tiles.openfreemap.org,CDN
 HOST,tiles.stadiamaps.com,CDN
 HOST,tiles.versatiles.org,CDN
 HOST,tiles.windy.com,CDN
+HOST,time-a.nist.gov,CDN
+HOST,time.akamai.com,CDN
 HOST,time.cloudflare.com,CDN
 HOST,time.google.com,CDN
 HOST,time.windows.com,CDN
@@ -2590,6 +2601,7 @@ HOST,tuf-repo.github.com,CDN
 HOST,turbo.build,CDN
 HOST,tvdownloaddw-a.akamaihd.net,CDN
 HOST,twemoji.maxcdn.com,CDN
+HOST,twenty-icons.com,CDN
 HOST,typeface.nyt.com,CDN
 HOST,typescript-eslint.io,CDN
 HOST,typescript.azureedge.net,CDN
@@ -2640,6 +2652,7 @@ HOST,v2-images.crackle.com,CDN
 HOST,v2.listenloop.com,CDN
 HOST,v2uploads.zopim.io,CDN
 HOST,vanilla-extract.style,CDN
+HOST,vbmspic.video.friday.tw,CDN
 HOST,vcdn.anysex.com,CDN
 HOST,versionbadg.es,CDN
 HOST,vetted.ai,CDN
@@ -3417,6 +3430,7 @@ HOST-SUFFIX,now.sh,CDN
 HOST-SUFFIX,npm.io,CDN
 HOST-SUFFIX,npmcdn.com,CDN
 HOST-SUFFIX,npmfs.com,CDN
+HOST-SUFFIX,npms.io,CDN
 HOST-SUFFIX,nv7s.com,CDN
 HOST-SUFFIX,nxcli.io,CDN
 HOST-SUFFIX,nxedge.io,CDN
@@ -3556,6 +3570,7 @@ HOST-SUFFIX,runkitcdn.com,CDN
 HOST-SUFFIX,s-nbcnews.com,CDN
 HOST-SUFFIX,s3.wasabisys.com,CDN
 HOST-SUFFIX,safebrowsing.apple,CDN
+HOST-SUFFIX,sascdn.com,CDN
 HOST-SUFFIX,sb-cd.com,CDN
 HOST-SUFFIX,sbcdnvideo.com,CDN
 HOST-SUFFIX,sc-cdn.com,CDN
@@ -3566,6 +3581,8 @@ HOST-SUFFIX,scorecardresearch.com,CDN
 HOST-SUFFIX,scribdassets.com,CDN
 HOST-SUFFIX,scripts.gatorapi.com,CDN
 HOST-SUFFIX,seadn.io,CDN
+HOST-SUFFIX,seecdn.com,CDN
+HOST-SUFFIX,seeusercontent.com,CDN
 HOST-SUFFIX,sendspace.com,CDN
 HOST-SUFFIX,senja.io,CDN
 HOST-SUFFIX,sentry-cdn.com,CDN
