@@ -3896,8 +3896,6 @@ DOMAIN-WILDCARD,image*.cloudokyo.cloud
 DOMAIN-WILDCARD,img-*.now.com
 DOMAIN-WILDCARD,img?.porngo.com
 DOMAIN-WILDCARD,img??.porngo.com
-DOMAIN-WILDCARD,media?.kissjav.com
-DOMAIN-WILDCARD,media??.kissjav.com
 DOMAIN-WILDCARD,object-storage-*.vexxhost.net
 DOMAIN-WILDCARD,ocsp.*.amazontrust.com
 DOMAIN-WILDCARD,proxy-*.dailymotion.com
@@ -3911,6 +3909,8 @@ DOMAIN-WILDCARD,s???.pornone.com
 DOMAIN-WILDCARD,sdk.*.braze.eu
 DOMAIN-WILDCARD,static?.tgstat.ru
 DOMAIN-WILDCARD,static??.tgstat.ru
+DOMAIN-WILDCARD,stream?.kissjav.com
+DOMAIN-WILDCARD,stream??.kissjav.com
 DOMAIN-WILDCARD,t?.nhentai.net
 DOMAIN-WILDCARD,th-*.pornone.com
 DOMAIN-WILDCARD,uploads-*.insided.com
