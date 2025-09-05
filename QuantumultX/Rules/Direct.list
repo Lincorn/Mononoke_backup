@@ -390,7 +390,7 @@ HOST,http.kali.org,Direct
 HOST,httpd-mirror.sergal.org,Direct
 HOST,i18n.prismlauncher.org,Direct
 HOST,icm.edu.pl,Direct
-HOST,ifconfig.me/ip,Direct
+HOST,ifconfig.me,Direct
 HOST,install.virtfusion.net,Direct
 HOST,invent.kde.org,Direct
 HOST,it.apache.contactlab.it,Direct
