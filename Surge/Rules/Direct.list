@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1233
+# 规则统计: 1237
 
 DOMAIN,addins.deepl.com
 DOMAIN,alt1-mtalk.google.com
@@ -96,6 +96,7 @@ DOMAIN,cdn.winget.microsoft.com
 DOMAIN,cdn.zoom.us
 DOMAIN,cdnorg.d.miui.com
 DOMAIN,charts.verdaccio.org
+DOMAIN,chnroutes2.cdn.skk.moe
 DOMAIN,ciscobinary.openh264.org
 DOMAIN,clarkson.edu
 DOMAIN,client.hikarifield.co.jp
@@ -278,6 +279,7 @@ DOMAIN,fastly-download.epicgames.com
 DOMAIN,fedorapeople.org
 DOMAIN,file.chobit.cc
 DOMAIN,files2.freedownloadmanager.org
+DOMAIN,filters.cdn.skk.moe
 DOMAIN,formulae.brew.sh
 DOMAIN,fr2.rpmfind.net
 DOMAIN,freedif.org
@@ -668,6 +670,7 @@ DOMAIN,res-1.cdn.office.net
 DOMAIN,res-h3.public.cdn.office.net
 DOMAIN,res.cdn.office.net
 DOMAIN,rpm.xpipe.io
+DOMAIN,ruleset.skk.moe
 DOMAIN,s3.teckids.org
 DOMAIN,searchcpan.org
 DOMAIN,security.debian.org
@@ -678,6 +681,7 @@ DOMAIN,skimdb.npmjs.com
 DOMAIN,snt.utwente.nl
 DOMAIN,softwareupdate.pilotmoon.com
 DOMAIN,sotirov-bg.net
+DOMAIN,speedtest-net-servers.cdn.skk.moe
 DOMAIN,static.adguard.com
 DOMAIN,static.adtidy.org
 DOMAIN,static.redox-os.org
