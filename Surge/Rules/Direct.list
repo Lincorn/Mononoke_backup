@@ -1,5 +1,5 @@
 # 规则名称: Direct
-# 规则统计: 1237
+# 规则统计: 1241
 
 DOMAIN,addins.deepl.com
 DOMAIN,alt1-mtalk.google.com
@@ -66,6 +66,7 @@ DOMAIN,autoupdate.termius.com
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,b2.mcarchive.net
 DOMAIN,bdtj.tagtic.cn
+DOMAIN,bigfiles.virustotal.com
 DOMAIN,binaries.prisma.sh
 DOMAIN,blizzard.gcdn.cloudn.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
@@ -256,6 +257,7 @@ DOMAIN,download3.epicgames.com
 DOMAIN,download4.epicgames.com
 DOMAIN,downloadr2.apkmirror.com
 DOMAIN,downloads.1password.com
+DOMAIN,downloads.broadcom.com
 DOMAIN,downloads.cloudflareclient.com
 DOMAIN,downloads.cursor.com
 DOMAIN,downloads.lemonsqueezy.com
@@ -267,6 +269,7 @@ DOMAIN,downloads.wordpress.org
 DOMAIN,downloads.x-wrt.com
 DOMAIN,downloads.xiph.org
 DOMAIN,downloads.xrite.com
+DOMAIN,downloads2.broadcom.com
 DOMAIN,drive.massgrave.dev
 DOMAIN,edge.steam-dns.top.comcast.net
 DOMAIN,edgedl.me.gvt1.com
@@ -368,6 +371,7 @@ DOMAIN,ftp.wrz.de
 DOMAIN,ftp.yz.yamagata-u.ac.jp
 DOMAIN,ftp1.nluug.nl
 DOMAIN,ftp2.nluug.nl
+DOMAIN,ftpdownloads.broadcom.com
 DOMAIN,ftpmirror.gnu.org
 DOMAIN,ftpmirror1.infania.net
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
