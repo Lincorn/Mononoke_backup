@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 3945
+# 规则统计: 3951
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -485,6 +485,7 @@ DOMAIN,cdn.c1.amplience.net
 DOMAIN,cdn.calibermind.com
 DOMAIN,cdn.cameo.com
 DOMAIN,cdn.camweara.com
+DOMAIN,cdn.candy.ai
 DOMAIN,cdn.cbd.int
 DOMAIN,cdn.cfr.org
 DOMAIN,cdn.changelog.com
@@ -1412,6 +1413,7 @@ DOMAIN,images.g2crowd.com
 DOMAIN,images.github.media
 DOMAIN,images.hothardware.com
 DOMAIN,images.idgesg.net
+DOMAIN,images.indianexpress.com
 DOMAIN,images.kick.com
 DOMAIN,images.loox.io
 DOMAIN,images.macrumors.com
@@ -1560,6 +1562,7 @@ DOMAIN,img0.yna.co.kr
 DOMAIN,img1.ak.crunchyroll.com
 DOMAIN,img1.socialshopwave.com
 DOMAIN,img1.yna.co.kr
+DOMAIN,img2.gelbooru.com
 DOMAIN,img2.javdove.com
 DOMAIN,img2.javmost.com
 DOMAIN,img2.socialshopwave.com
@@ -1570,9 +1573,11 @@ DOMAIN,img3.javmost.com
 DOMAIN,img3.socialshopwave.com
 DOMAIN,img3.yna.co.kr
 DOMAIN,img4.airdroid.com
+DOMAIN,img4.gelbooru.com
 DOMAIN,img4.javmost.com
 DOMAIN,img4.socialshopwave.com
 DOMAIN,img4.yna.co.kr
+DOMAIN,img5.gelbooru.com
 DOMAIN,img5.socialshopwave.com
 DOMAIN,img5.yna.co.kr
 DOMAIN,img6.airdroid.com
@@ -1722,6 +1727,7 @@ DOMAIN,mcdns.vrporn.com
 DOMAIN,media-cdn.atlassian.com
 DOMAIN,media-cdn.comfy.social
 DOMAIN,media-cdn.epicgames.com
+DOMAIN,media-central.indianexpress.com
 DOMAIN,media-cms.onesignal.com
 DOMAIN,media-s3-us-east-1.ceros.com
 DOMAIN,media.beehiiv.com
