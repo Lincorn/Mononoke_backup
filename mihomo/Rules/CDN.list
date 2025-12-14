@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4206
+# 规则统计: 4214
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -760,7 +760,6 @@ DOMAIN,cdn.redoc.ly
 DOMAIN,cdn.redwap.xyz
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,cdn.reimu.net
-DOMAIN,cdn.report-uri.com
 DOMAIN,cdn.rex.contents.rakuten.co.jp
 DOMAIN,cdn.rive.app
 DOMAIN,cdn.road.cc
@@ -1259,6 +1258,7 @@ DOMAIN,featureflags.netlify.com
 DOMAIN,fesdk.nexon.com
 DOMAIN,fiddle.fastly.dev
 DOMAIN,fiddle.jshell.net
+DOMAIN,file.ahu.moe
 DOMAIN,file.izanmei.net
 DOMAIN,file.zoom.us
 DOMAIN,file1.hkepc.net
@@ -1412,6 +1412,7 @@ DOMAIN,i3.anysex.com
 DOMAIN,i4.anysex.com
 DOMAIN,ias.r10s.jp
 DOMAIN,icdn.javxx.com
+DOMAIN,icdn.missav123.to
 DOMAIN,ichef.bbci.co.uk
 DOMAIN,icms-image.slatic.net
 DOMAIN,icon.icepanel.io
@@ -2454,6 +2455,7 @@ DOMAIN,static.addtoany.com
 DOMAIN,static.adguardvpn.com
 DOMAIN,static.afterpay.com
 DOMAIN,static.ahrefs.com
+DOMAIN,static.ahu.moe
 DOMAIN,static.airtable.com
 DOMAIN,static.aizanmei.org
 DOMAIN,static.animaapp.com
@@ -2976,6 +2978,7 @@ DOMAIN,widgets.pinterest.com
 DOMAIN,widgets.tree-nation.com
 DOMAIN,widgets.turnto.com
 DOMAIN,widgets.zohosalesiq.com
+DOMAIN,wiki.metacubex.one
 DOMAIN,wikiwandv2-19431.kxcdn.com
 DOMAIN,wimg.rule34.xxx
 DOMAIN,wire.shodan.io
@@ -3010,6 +3013,9 @@ DOMAIN-SUFFIX,1a-1791.com
 DOMAIN-SUFFIX,1passwordusercontent.ca
 DOMAIN-SUFFIX,1passwordusercontent.com
 DOMAIN-SUFFIX,1passwordusercontent.eu
+DOMAIN-SUFFIX,2024cdn.sx
+DOMAIN-SUFFIX,2025cdn.sx
+DOMAIN-SUFFIX,2026cdn.sx
 DOMAIN-SUFFIX,2img.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,4cdn.org
@@ -3332,7 +3338,6 @@ DOMAIN-SUFFIX,events.backtrace.io
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,externulls.com
 DOMAIN-SUFFIX,ezocdn.com
-DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,f.hubspotemail.net
 DOMAIN-SUFFIX,f.hubspotfree.net
 DOMAIN-SUFFIX,f.hubspotstarter.net
@@ -3346,6 +3351,7 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,featureassets.org
 DOMAIN-SUFFIX,feedercdn.com
+DOMAIN-SUFFIX,fembeqv2.xyz
 DOMAIN-SUFFIX,ffzy888.com
 DOMAIN-SUFFIX,filecunhua.top
 DOMAIN-SUFFIX,files.bbci.co.uk
@@ -3405,6 +3411,7 @@ DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gitlab-static.net
 DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitmirror.com
 DOMAIN-SUFFIX,gitpage.si
 DOMAIN-SUFFIX,glass.adidas.com
 DOMAIN-SUFFIX,glbimg.com
@@ -3836,6 +3843,7 @@ DOMAIN-SUFFIX,redditmedia.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,registry.gitplac.si
 DOMAIN-SUFFIX,replicate.delivery
+DOMAIN-SUFFIX,report-uri.com
 DOMAIN-SUFFIX,res.office365.com
 DOMAIN-SUFFIX,rescript-lang.org
 DOMAIN-SUFFIX,rlcdn.com
