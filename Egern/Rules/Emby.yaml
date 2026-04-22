@@ -1,5 +1,5 @@
 # 规则名称: Emby
-# 规则统计: 195
+# 规则统计: 196
 
 no_resolve: true
 domain_set:
@@ -10,10 +10,11 @@ domain_set:
   - cuinf.sfcat.link
   - emby-cdn1.nebula-media.org
   - emby.nebula-media.org
-  - mcdn.mobaiemby.site
+  - global.uhdnow.com
   - notnetflix.cos.cat
   - starharn-cf.nebula-media.org
   - starharn.nebula-media.org
+  - v1.uhdnow.com
   - web-starharn.nebula-media.org
   - web.nebula-media.org
 domain_suffix_set:
