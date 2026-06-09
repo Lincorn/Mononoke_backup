@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4518
+# 规则统计: 4519
 
 DOMAIN,0x0.st
 DOMAIN,3dna.nationbuilder.com
@@ -648,6 +648,7 @@ DOMAIN,cdn.equinix.com
 DOMAIN,cdn.eu.contentful.com
 DOMAIN,cdn.european-alternatives.eu
 DOMAIN,cdn.evbstatic.com
+DOMAIN,cdn.evgnet.com
 DOMAIN,cdn.f5.com
 DOMAIN,cdn.faire.com
 DOMAIN,cdn.fastcomments.com
@@ -948,7 +949,6 @@ DOMAIN,cdn.wikimg.net
 DOMAIN,cdn.wikiwiki.jp
 DOMAIN,cdn.windowsreport.com
 DOMAIN,cdn.wishpond.net
-DOMAIN,cdn.workos.com
 DOMAIN,cdn.worldvectorlogo.com
 DOMAIN,cdn.writeas.net
 DOMAIN,cdn.xeiaso.net
@@ -3491,6 +3491,7 @@ DOMAIN-SUFFIX,cdn.skk.moe
 DOMAIN-SUFFIX,cdn.survey.medallia.com
 DOMAIN-SUFFIX,cdn.turner.com
 DOMAIN-SUFFIX,cdn.ubi.com
+DOMAIN-SUFFIX,cdn.workos.com
 DOMAIN-SUFFIX,cdn1122.com
 DOMAIN-SUFFIX,cdn2.hubspot.net
 DOMAIN-SUFFIX,cdn2020.com

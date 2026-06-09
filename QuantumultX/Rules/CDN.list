@@ -1,5 +1,5 @@
 # 规则名称: CDN
-# 规则统计: 4573
+# 规则统计: 4574
 
 HOST,0x0.st,CDN
 HOST,3dna.nationbuilder.com,CDN
@@ -648,6 +648,7 @@ HOST,cdn.equinix.com,CDN
 HOST,cdn.eu.contentful.com,CDN
 HOST,cdn.european-alternatives.eu,CDN
 HOST,cdn.evbstatic.com,CDN
+HOST,cdn.evgnet.com,CDN
 HOST,cdn.f5.com,CDN
 HOST,cdn.faire.com,CDN
 HOST,cdn.fastcomments.com,CDN
@@ -948,7 +949,6 @@ HOST,cdn.wikimg.net,CDN
 HOST,cdn.wikiwiki.jp,CDN
 HOST,cdn.windowsreport.com,CDN
 HOST,cdn.wishpond.net,CDN
-HOST,cdn.workos.com,CDN
 HOST,cdn.worldvectorlogo.com,CDN
 HOST,cdn.writeas.net,CDN
 HOST,cdn.xeiaso.net,CDN
@@ -3491,6 +3491,7 @@ HOST-SUFFIX,cdn.skk.moe,CDN
 HOST-SUFFIX,cdn.survey.medallia.com,CDN
 HOST-SUFFIX,cdn.turner.com,CDN
 HOST-SUFFIX,cdn.ubi.com,CDN
+HOST-SUFFIX,cdn.workos.com,CDN
 HOST-SUFFIX,cdn1122.com,CDN
 HOST-SUFFIX,cdn2.hubspot.net,CDN
 HOST-SUFFIX,cdn2020.com,CDN
